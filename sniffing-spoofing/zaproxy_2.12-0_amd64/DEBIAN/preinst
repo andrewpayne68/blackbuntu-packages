@@ -1,0 +1,4 @@
+rm -f /usr/bin/zaproxy
+rm -rf /opt/blackbuntu/sniffing-spoofing/zaproxy/
+rm -f /usr/share/applications/blackbuntu-zaproxy.desktop
+rm -f /usr/share/icons/blackbuntu/zaproxy.png

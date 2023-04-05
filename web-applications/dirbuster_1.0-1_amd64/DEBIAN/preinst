@@ -1,0 +1,2 @@
+rm -rf /opt/blackbuntu/web-applications/dirbuster/
+rm -f /usr/share/applications/blackbuntu-dirbuster.desktop

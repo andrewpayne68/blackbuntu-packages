@@ -1,0 +1,6 @@
+Package: electrum-btc
+Version: 4.3.4
+Priority: optional
+Architecture: amd64
+Maintainer: NeosLab <contact@neoslab.com>
+Description: Electrum BTC is one of the most popular Bitcoin wallets. Electrum BTC is fast, secure and easy to use. It suits the needs of a wide spectrum of users.

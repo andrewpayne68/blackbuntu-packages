@@ -1,0 +1,6 @@
+Package: electrum-ltc
+Version: 4.2.2
+Priority: optional
+Architecture: amd64
+Maintainer: NeosLab <contact@neoslab.com>
+Description: Electrum LTC is one of the most popular Bitcoin wallets. Electrum LTC is fast, secure and easy to use. It suits the needs of a wide spectrum of users.

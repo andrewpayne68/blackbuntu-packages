@@ -1,0 +1,4 @@
+rm -f /usr/bin/dumpzilla
+rm -rf /opt/blackbuntu/forensics/dumpzilla/
+rm -f /usr/share/applications/blackbuntu-dumpzilla.desktop
+rm -f /usr/share/icons/blackbuntu/dumpzilla.png

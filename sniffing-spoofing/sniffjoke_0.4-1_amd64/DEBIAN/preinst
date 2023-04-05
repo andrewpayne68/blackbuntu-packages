@@ -1,0 +1,3 @@
+rm -f /usr/bin/sniffjoke
+rm -rf /opt/blackbuntu/sniffing-spoofing/sniffjoke/
+rm -f /usr/share/applications/blackbuntu-sniffjoke.desktop

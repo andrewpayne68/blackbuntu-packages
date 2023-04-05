@@ -1,0 +1,4 @@
+rm -f /usr/bin/mitmproxy
+rm -rf /opt/blackbuntu/sniffing-spoofing/mitmproxy/
+rm -f /usr/share/applications/blackbuntu-mitmproxy.desktop
+rm -f /usr/share/icons/blackbuntu/mitmproxy.png
