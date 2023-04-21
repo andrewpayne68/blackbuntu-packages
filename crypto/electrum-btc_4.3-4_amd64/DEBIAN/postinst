@@ -1,3 +1,0 @@
-mkdir -p /opt/blackbuntu/crypto/
-chmod +x /opt/blackbuntu/crypto/electrum-btc/electrum-btc.AppImage
-mkdir -p /usr/share/icons/blackbuntu/

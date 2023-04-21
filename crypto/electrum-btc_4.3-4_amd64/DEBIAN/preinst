@@ -1,3 +1,0 @@
-rm -rf /opt/blackbuntu/crypto/electrum-btc/
-rm -f /usr/share/applications/blackbuntu-electrum-btc.desktop
-rm -f /usr/share/icons/blackbuntu/electrum-btc.png
